@@ -1,0 +1,166 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: justify;
+  }
+
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+    background-color: rgba(177, 199, 241, 0.316);
+    
+  }
+
+  menu{
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  header{
+    background-color: rgb(177, 199, 241, 0.316);
+    overflow: hidden;
+    width: 100%;
+}
+
+header h1 img {
+    float: left;
+    width: 100px;
+    margin-right:  0cm;
+}
+nav  li {
+    list-style: none;
+    display: inline;
+    text-align: center;
+    margin-left: 8%;
+    font-size: 19px;    
+}
+a{
+    color: black;
+}
+.imagen_central {
+    width: 500px;
+    margin-bottom: 2em;
+    margin-top: 10em;
+    height: 500px;
+    display:block;
+    margin: auto;
+    
+}
+
+main{
+    background-color: rgb(177, 199, 241, 0.316);
+    width: 100%;
+    float: left;
+  }
+
+  h2 {
+    clear: both;
+    margin-top: 3em;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    color: rgb(22, 6, 249);
+    text-align: center;
+    margin-bottom: 1.3em;
+}
+p{
+    text-align: left;
+    line-height: 1.5em;
+}
+
+.tablaPrecios {
+    width: 100%;
+    border: 1px solid rgb(193, 206, 246);
+    background-color:  rgb(177, 199, 241, 0.316);
+ }
+ .tablaPrecios th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+    
+ }
+
+ .tablaMarcas {
+    width: 100%;
+    border: 1px solid rgb(251, 227, 227);
+    background-color:  rgb(177, 199, 241, 0.316);
+ }
+ .tablaMarcas th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+    
+ }
+
+
+
+.fotoUso{
+    width: 500px;
+    margin-bottom: 2em;
+    margin-top: 10em;
+    height: 500px;
+    display:block;
+    margin: auto;
+
+}
+
+footer{
+    background-color: rgb(177, 199, 241, 0.316);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.destacado{
+    font-weight: bolder;
+}
+
+.fotoBoli{
+    width: 1000px;
+    margin-bottom: 2em;
+    margin-top: 10em;
+    height: 200px;
+    display:block;
+    margin: auto; 
+
+}
+
+.imagen {
+    width: 300px;
+    margin-bottom: 1em;
+    margin-top: 50em;
+    height: 150px;
+    display:block;
+    margin: auto
+}
+#caracteristicas {
+    width: 500px;
+    margin-bottom: 2em;
+    margin-top: 10em;
+    /*height: 100px;*/
+    left: 200px;
+  
+    
+}
+#tabla{
+    width: 750px;
+    margin-bottom: 2em;
+    margin-top: 10em;
+    height: 500px;
+    display:block;
+    margin: auto;
+      
+}
+
+.texto2{
+    padding-left: 400px;
+    left: 200px;
+
+}
+
+#caracteristicas1{
+    padding-left: 50px;
+}
